@@ -1,0 +1,25 @@
+.movieDetails {
+  background-color: rgba(17, 15, 36, 1);
+  color: white;
+  padding: 20px 0;
+}
+
+.movieDetails > p {
+  margin-bottom: 10px;
+}
+
+.movieDetails > button {
+  border: none;
+  padding: 10px;
+  margin-top: 10px;
+  color: rgba(17, 15, 36, 1);
+  border-radius: 5px;
+}
+
+.movieDetails > button:hover {
+  background-color: rgba(17, 15, 36, 1);
+  color: white;
+  border: 1px solid white;
+  padding: 9px 10px;
+  cursor: pointer;
+}
